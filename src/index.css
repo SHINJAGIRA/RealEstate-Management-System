@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f6f8;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Ensure links in DataGrid don't look weird */
+a {
+  text-decoration: none;
+  color: inherit;
+}
